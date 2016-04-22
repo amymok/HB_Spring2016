@@ -14,3 +14,5 @@ tip = bill * .18
 total_bill = bill + tip
 
 print "The tip is %f and the total bill is %f ." % (tip, total_bill)
+
+print "test"
